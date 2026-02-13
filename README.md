@@ -6,7 +6,6 @@ BMI (Body Mass Index) calculator developed as my first JavaScript project, focus
 
 This project is a practical introduction to programming with JavaScript. It allows calculating BMI from weight and height, demonstrating basic data handling, simple calculations, and updating elements on the page.
 
-
 ### Installation
 
 1. Clone the repository:
@@ -22,4 +21,5 @@ git clone https://github.com/user/imc.io.git
 <p align="center" style="opacity:0.6;">
 MIT License – see the <a href="LICENSE">LICENSE</a> file for details.
 </p>
+
 
